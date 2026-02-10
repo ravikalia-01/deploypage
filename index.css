@@ -20,11 +20,11 @@ nav{
     display: flex;
     justify-content: space-evenly;
     margin-top: 20px;
-    color: aliceblue;
+    color: tomato;
 }       
 
 a{
-    color: aliceblue;
+    color: tomato;
     text-decoration: none;
     font-size: 20px;
 }
